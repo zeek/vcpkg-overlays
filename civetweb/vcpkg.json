@@ -14,14 +14,9 @@
       "name": "vcpkg-cmake-config",
       "host": true
     },
-    "zlib"
-  ],
-  "features": {
-    "ssl": {
-      "description": "Enable SSL support",
-      "dependencies": [
-        "openssl"
-      ]
+    {
+      "name": "zlib",
+      "platform": "windows"
     }
-  }
+  ]
 }
