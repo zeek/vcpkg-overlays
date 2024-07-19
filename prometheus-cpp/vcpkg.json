@@ -12,10 +12,10 @@
       "name": "vcpkg-cmake-config",
       "host": true
     },
-        "civetweb",
-        {
-          "name": "zlib",
-          "platform": "windows"
-        }
-  ]
+    "civetweb",
+    {
+      "name": "zlib",
+      "platform": "windows"
     }
+  ]
+}
